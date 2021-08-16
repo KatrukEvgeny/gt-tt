@@ -1,5 +1,5 @@
-/* eslint-disable */
 'use strict';
+/* eslint-disable */
 
 // Your web app's Firebase configuration
 var firebaseConfig = {

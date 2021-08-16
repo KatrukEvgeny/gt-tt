@@ -1,8 +1,7 @@
 'use strict';
 /* eslint-disable */
-// eslint-disable-next-line
+
 const { data } = require('./data.js');
-// eslint-disable-next-line
 const { firebaseDB } = require('./firebase');
 
 //rendering list of casinos

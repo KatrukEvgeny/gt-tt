@@ -1,11 +1,12 @@
 'use strict';
+/* eslint-disable */
 
 const data = [
   {
     'id': 'item-1',
     'title': 'Playzee',
     'flag': 'player favourite',
-    'logoURL': '/playzee.14c12b12.png',
+    'logoURL': 'https://www.playzee.com/images/logo-small.svg',
     'logoBg': '#a100c9',
     'bonus1': '100% Up to',
     'bonus2': '1500',
@@ -19,7 +20,7 @@ const data = [
     'id': 'item-2',
     'title': 'Machance',
     'flag': 'trending',
-    'logoURL': '/machance.f0287124.svg',
+    'logoURL': 'https://www.machancecasino.com/templates/machance/images/logo_mc_origin.svg',
     'logoBg': '#000',
     'bonus1': '200% Up to',
     'bonus2': '500',
@@ -33,7 +34,7 @@ const data = [
     'id': 'item-3',
     'title': 'Intense',
     'flag': 'number 1 in europe',
-    'logoURL': '/intense.4e0b0961.png',
+    'logoURL': 'https://pic2.casinointense.com/templates/intense/images/logo.png',
     'logoBg': '#d6e3e2',
     'bonus1': '200% Up to',
     'bonus2': '3,000',
@@ -47,7 +48,7 @@ const data = [
     'id': 'item-4',
     'title': 'LeoVegas',
     'flag': 'exclusive',
-    'logoURL': '/leovegas.1e388deb.svg',
+    'logoURL': 'https://cdn.leovegas.com/fulcrum/v3/master/static/2e7c1afd1dae294fcdc3dadd6792e204.svg',
     'logoBg': '#00b2ae',
     'bonus1': '100% Up to',
     'bonus2': '200',
@@ -61,7 +62,7 @@ const data = [
     'id': 'item-5',
     'title': 'Casumo',
     'flag': '',
-    'logoURL': '/casumo.21dd1af3.svg',
+    'logoURL': 'https://onlinecasinos77sweden.com/img/casinologo/Casumo.png',
     'logoBg': '#d6e3e2',
     'bonus1': 'Welcome Bonus',
     'bonus2': '250',
